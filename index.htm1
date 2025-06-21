@@ -1,0 +1,16 @@
+html
+<!DOCTYPE html>
+<html>
+  <body>
+<h2>Welcome, Ethical Hacker !</h2?
+    <p id= 'device-info'></p>
+    <script>
+      let info = '
+        User-Agent: ${navigator .userAgent} <br>
+        Platform: ${navigator .plattform} <br>
+        Language: ${navigator .language}
+      ':
+        documment.getElementById('device-info').innerHTML =
+        </script>
+  </body>
+</html>
